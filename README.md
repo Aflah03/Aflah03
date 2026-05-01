@@ -1,11 +1,11 @@
 # Hi there, I'm Aflah Muhammed P 👋
 
-### 👨‍💻 Techie | Coder | CS Student @ CET
-I am a Computer Science and Engineering student at the College of Engineering Trivandrum (CET). I'm passionate about building scalable web applications and optimizing AI inference performance.
+### 👨‍💻 Computer Science Student @ College of Engineering Trivandrum (CET)
+I'm a full-stack developer and AI enthusiast focused on performance optimization and scalable systems. Currently serving as the **Joint Secretary of the CS Association** at CET.
 
-- 🔭 **Currently working on:** AI Inference & Performance Optimization (vLLM, NVIDIA Dynamo).
-- 🌱 **Learning:** Distributed Systems and Advanced Kubernetes.
-- ⚡ **Fun fact:** I'm the Joint Secretary of the CS Association at CET!
+- 🚀 **Latest Project:** Optimizing LLM inference pipelines using **vLLM** and **NVIDIA Dynamo**.
+- 🏆 **Achievement:** 1st Place at the NASA Earth Data Hackathon for **Karuthal** (Landslide Warning System).
+- 🛠️ **Core Focus:** Backend Engineering, AI Infrastructure, and Competitive Programming.
 
 ---
 
@@ -19,44 +19,26 @@ I am a Computer Science and Engineering student at the College of Engineering Tr
 
 **Languages & Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,postgres,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,java,postgres,mysql,html,css" />
 </p>
 
-**Frameworks & Tools**
+**Frameworks, Cloud & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,flask,express,docker,kubernetes,aws,linux,bash,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,flask,docker,kubernetes,aws,linux,bash,firebase,git" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Activity:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aflah03&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aflah03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aflah03&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
-### 🏆 Top Projects:
-- **AI Inference Optimization:** Deployed LLM inference pipelines using vLLM to evaluate latency and throughput.
-- **Mess Management System:** Full-stack automation for daily mess operations (Node.js, React, PostgreSQL).
-- **Karuthal:** Landslide warning system (1st Place @ NASA Earth Data Hackathon).
-<!--
-**Aflah03/Aflah03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Projects:
+* **AI Inference Optimization:** Experimenting with batch size and KV cache tuning for LLaMA-based models.
+* **Mess Management System:** A full-stack solution (Node.js/React) for automated billing and secure user management.
+* **Karuthal:** A climate-hazard early warning system built with Flask and NASA Earth Data.
