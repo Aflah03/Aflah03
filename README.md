@@ -27,14 +27,6 @@ I'm a full-stack developer and AI enthusiast focused on performance optimization
   <img src="https://skillicons.dev/icons?i=nodejs,react,flask,docker,kubernetes,aws,linux,bash,firebase,git" />
 </p>
 
----
-
-### 📊 GitHub Activity:
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aflah03&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aflah03&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
