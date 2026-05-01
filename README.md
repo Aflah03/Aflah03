@@ -26,11 +26,3 @@ I'm a full-stack developer and AI enthusiast focused on performance optimization
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,react,flask,docker,kubernetes,aws,linux,bash,firebase,git" />
 </p>
-
-
----
-
-### 🚀 Key Projects:
-* **AI Inference Optimization:** Experimenting with batch size and KV cache tuning for LLaMA-based models.
-* **Mess Management System:** A full-stack solution (Node.js/React) for automated billing and secure user management.
-* **Karuthal:** A climate-hazard early warning system built with Flask and NASA Earth Data.
